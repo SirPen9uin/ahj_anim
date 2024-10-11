@@ -1,6 +1,6 @@
 # Collapse
 
-[![Build status](https://ci.appveyor.com/api/projects/status/xo3bqwhfn9bis24w?svg=true)](https://ci.appveyor.com/project/neondoll/ahj-homeworks-anim-collapse)
+[![Build status](https://ci.appveyor.com/api/projects/status/xo3bqwhfn9bis24w?svg=true)](https://ci.appveyor.com/project/sirpen9uin/ahj-homeworks-anim-collapse)
 
 ## Описание
 
